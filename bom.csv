@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"T8, T3, T1",3," NPN Transistor (BJT)"
+"R1, R3, R6",3,"10 kΩ Resistor"
+"Bat2",1,"1 battery, AA, no 1.5V Battery"
+"D1, D4, D2",3,"Red LED"
+"R2, R7, R4",3,"250 Ω Resistor"
