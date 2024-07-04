@@ -12,4 +12,3 @@ To visually represent the state of the two registers, if a register is on 1 a le
 
 no, it does not serve of anything juax, but it is interesting to learn.
 
-Translated with DeepL.com (free version)
